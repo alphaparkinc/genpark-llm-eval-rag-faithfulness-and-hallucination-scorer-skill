@@ -1,0 +1,8 @@
+{
+  "name": "genpark-llm-eval-rag-faithfulness-and-hallucination-scorer-skill",
+  "version": "1.0.0",
+  "description": "RAG context faithfulness evaluator, atomic claim decomposition engine, and hallucination risk scorer",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
